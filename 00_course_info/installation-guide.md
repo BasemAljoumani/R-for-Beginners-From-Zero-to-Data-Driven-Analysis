@@ -4,7 +4,7 @@
 ## Step 1: Install R
 R is the programming language.
 
-👉 Download R from CRAN:  
+# Download R from CRAN:  
 [Download R (CRAN)](https://cran.r-project.org/)
 
 Choose your operating system:
@@ -19,7 +19,7 @@ Follow the installation steps (default settings are fine).
 ## Step 2: Install RStudio
 RStudio is the interface that makes working with R easier.
 
-👉 Download RStudio Desktop:  
+# Download RStudio Desktop:  
 [Download RStudio](https://posit.co/download/rstudio-desktop/)
 
 Install it after installing R.
@@ -46,8 +46,8 @@ Type this in the Console:
 2 + 2
 
 ```markdown
-👉 **Download R:**  
+**Download R:**  
 https://cran.r-project.org/
 
-👉 **Download RStudio:**  
+ **Download RStudio:**  
 https://posit.co/download/rstudio-desktop/
