@@ -11,13 +11,15 @@ The course is offered as a solidarity-based educational initiative to help parti
 ## Instructors
 
 - **Dr. Basem Aljoumani** 
+
 FG Geoinformation in der Umweltplanung  
 Institut für Landschaftsarchitektur und Umweltplanung
 Technische Universität Berlin 
 
 ## Coordinator
 
-- **Assoc. Prof. Sarra Saad** – Guest, Technische Universität Berlin
+- **Assoc. Prof. Sarra Saad** – Guest, 
+
 FG Geoinformation in der Umweltplanung  
 Institut für Landschaftsarchitektur und Umweltplanung
 Technische Universität Berlin 
