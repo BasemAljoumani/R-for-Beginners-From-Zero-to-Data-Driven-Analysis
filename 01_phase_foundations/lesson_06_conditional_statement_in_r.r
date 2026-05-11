@@ -221,6 +221,32 @@ if (x >= 15) {
   print("x is at least 10")
 }
 
+############################################################
+# you can add if ..else as many as you need 
+############################################################
+
+x <- 69
+if (x >= 90) {
+  
+  print("Excellent")
+  
+} else if (x >= 80) {
+  
+  print("Very good")
+  
+} else if (x >= 70) {
+  
+  print("Good")
+  
+} else if (x >= 60) {
+  
+  print("Pass")
+  
+} else {
+  
+  print("Fail")
+  
+}
 
 ############################################################
 # 10. Example: Divisibility
